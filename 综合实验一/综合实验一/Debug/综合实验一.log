@@ -1,0 +1,10 @@
+﻿  综合实验一View.cpp
+c:\myvs\综合实验一\综合实验一\综合实验一view.cpp(169): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\myvs\综合实验一\综合实验一\综合实验一view.cpp(170): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\myvs\综合实验一\综合实验一\综合实验一view.cpp(174): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\myvs\综合实验一\综合实验一\综合实验一view.cpp(181): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  正在生成代码...
+  正在跳过...(未检测到相关更改)
+  综合实验一.cpp
+  综合实验一.vcxproj -> C:\MyVS\综合实验一\Debug\综合实验一.exe
+  综合实验一.vcxproj -> C:\MyVS\综合实验一\Debug\综合实验一.pdb (Partial PDB)
